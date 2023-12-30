@@ -1,2 +1,2 @@
 # ANGRY-ALEXA-PROJECT
-ALEXA USING PYTHON
+I tried to develp Alexa by using Python to an easy level for general basic knowledge about voice recognition
