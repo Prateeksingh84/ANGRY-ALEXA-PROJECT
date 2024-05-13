@@ -3,5 +3,4 @@ I tried to develp Alexa by using Python to an easy level for general basic knowl
 GROUP MEMBERS:-
 PRATEEK,
 PRIYANSHU DAHIYA,
-LAGHUVI RAWAT AND
-HIMANSHI GOYAL
+AND LAKSHAY
